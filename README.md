@@ -26,7 +26,7 @@ The key components of the system include:
 
 ### Running the Simulation
 ```bash
-python main.py
+python simulation/simulation.py
 ```
 This will run simulations based on the parameters specified in `NetworkSimulatorRunner` and save the results in `simulation_results.csv`.
 
