@@ -267,7 +267,7 @@ def distributed_max_weight_matching(G: nx.Graph, epsilon: float = 0.1) -> List[T
     return final_matching
 
 ###############################################################################
-# (5) MAIN DEMO: PUTTING EVERYTHING TOGETHER
+# (5) Example
 ###############################################################################
 
 def generate_random_graph(n: int, p: float) -> nx.Graph:
