@@ -1,5 +1,5 @@
 # Distributed Matching for IoT Resource Allocation
-
+![alt text](https://github.com/subhaskghosh/distributed_matching_iot/blob/main/src/plots/combined_network__DistributionType.BETA_2500_500_89_50_50.png?raw=true)
 ## Overview
 This repository contains an implementation of distributed matching algorithms for IoT-based resource allocation. The project simulates a complex environment of users, access points, and cloudlets to study the efficiency of different resource allocation strategies in terms of delay tolerance, energy efficiency, and computational load.
 
@@ -15,7 +15,7 @@ The key components of the system include:
 - Greedy matching algorithm for baseline comparisons.
 - Statistical analysis of performance metrics including delay, utility, and resource efficiency.
 - Visualization tools for network topology, task distributions, and matching results.
-![alt text](https://github.com/subhaskghosh/distributed_matching_iot/blob/main/src/plots/combined_network__DistributionType.BETA_2500_500_89_50_50.png?raw=true)
+
 ## Getting Started
 ### Prerequisites
 - Python 3.8+
